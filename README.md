@@ -1,14 +1,20 @@
-# Memory Mates
+# 🎮 Memory Mates
 
-A simple memory matching game built with HTML, CSS, and JavaScript.
+**Memory Mates** is a simple and fun memory matching game built using **HTML**, **CSS**, and **JavaScript**. Test your memory and improve your concentration by finding all matching card pairs!
 
-## Features
-- Flip cards to find matching pairs
-- Timer and score tracking
-- Responsive design
+## 🚀 Features
 
-## How to Run
-Open `index.html` in your browser.
+- 🔄 **Card Flipping** – Click to flip cards and find matching pairs  
+- ⏱️ **Timer & Score Tracker** – Keep track of your game time and performance  
+- 📱 **Responsive Design** – Play seamlessly on mobile, tablet, or desktop  
+- 🔁 **Replay Option** – Restart the game anytime and challenge yourself again  
 
-## License
-MIT
+
+
+## 📦 Installation
+
+To run the game locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JatinSarwa10/memory-mates.git
